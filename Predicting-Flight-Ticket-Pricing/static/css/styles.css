@@ -1,0 +1,39 @@
+.Prediction {
+
+    font-size:  17px;
+    color: white;
+    
+    background-color: lightskyblue;
+ }
+
+
+
+ 
+
+
+h1 {
+    text-align: center;
+    color: white;
+    
+}
+body{
+/*    background-color: #091553;
+*/    text-align: center;
+	  background-color: lightskyblue;
+	  background-repeat: no-repeat;
+	  background-attachment: fixed;
+	  background-size: cover;
+	}
+
+ 
+a {
+    color: #f1f9f9;
+    
+    text-align: center;
+}
+
+a:hover {
+    color: #0c32f0;
+  }
+
+ 
